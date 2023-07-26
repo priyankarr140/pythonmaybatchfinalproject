@@ -1,0 +1,2 @@
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:19 Browser launched
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:22 Website Launched

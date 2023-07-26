@@ -1,0 +1,7 @@
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:19 Browser launched
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:22 Website Launched
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:42 From city selected
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:46 To city selected
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:55 Date selected
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:59 Passenger selected
+DEBUG    mainfolder.utilities.BaseClass:test_e2e.py:64 Successful booking
